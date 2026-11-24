@@ -33,3 +33,4 @@ Then speak UCI: `uci`, `isready`, `ucinewgame`, `position startpos`, `go`.
 ## License
 
 SPDX-License-Identifier: MIT
+# test
